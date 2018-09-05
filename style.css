@@ -1,258 +1,343 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@font-face {
+	font-family: AvenirLTStd-Medium;
+	src: url("https://cdn.protograph.pykih.com/lib/AvenirLTStd-Medium.otf") format("opentype");
+}
+
+@font-face{
+	font-family: Avenir-Bold;
+	src: url("https://cdn.protograph.pykih.com/lib/AEH.ttf") format("opentype");
+}
+
+@font-face{
+	font-family: AvenirLTStd-Book;
+	src: url("https://cdn.protograph.pykih.com/lib/AvenirLTStd-Book.otf") format("opentype");
+}
 
 body {
 	margin: 0;
 	padding: 0;
+	color: #333;
+	font-family: AvenirLTStd-Medium;
 }
 
-.container {
-	overflow: hidden;
-	width: 100%;
-}
-
-.content-div {
-	width: 65%;
-	display: inline-block;
-	background-color: #fff;
-	padding-top: 2.5%;
-}
-
-.main-content {
-	width: 60%;
-	margin: 5% 12%;
-}
-
-.location-div {
-	width: 35%;
-	background-color: #181818;
-	display: inline-block;
-	vertical-align: top;
-	height: 100vh;
+.container{
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
 	position: relative;
+	padding-top: 80px;
 }
 
-.location-div-content {
-	font-family: Avenir;
-	font-size: 16px;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: 1.63;
-	letter-spacing: normal;
-	color: #ffffff;
-	vertical-align: bottom;
+.content-area{
+	width: 880px;
+	padding-right: 220px;
+	box-sizing: border-box;
+}
+
+h1{
+	font-size: 1.8em;
+	font-family: Avenir-Bold;
+	margin-bottom: 40px;
+}
+
+h2{
+	margin-top: 80px;
+	font-size: 1.8em;
+	font-family: Avenir-Bold;
+	/*margin-bottom: 40px;*/
+	text-decoration: underline;
+}
+
+.icfj-strip{
+	width:220px;
 	position: absolute;
-	bottom: 0;
-	margin: 15% 15%;
+	height: 100vh;
+	text-align: center;
+	right: 0px;
+	top: 0px;
 }
 
-.icfj-logo {
-	width: 35%;
-	height: 35%;
+.fixed-div{
+	width:220px;
+	background: #EDEDED;
+	position: fixed;
+	height: 100vh;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	box-sizing: border-box;
+	text-align: center;
 }
 
-.proto-logo {
-	width: 28%;
-	height: 28%;
+
+.strip-content{
+	position: absolute;
+	bottom: 80px;
+	width: 100%;
+	font-size: 1em;
 }
 
-.logo-div {
+.pn-text{
+	margin-bottom: 80px;
+	font-size: 1.2em;
+}
+
+.logo-div{
 	margin-bottom: 40px;
 }
 
-.large-blurb {
-	font-family: "Avenir";
-	font-size: 32px;
-	font-weight: 900;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: 1.38;
-	letter-spacing: -0.8px;
-	color: #333333;
-	width: 90%;
-	margin: 40px 0px;
+a{
+	color: #333;
 }
 
-.list-caption {
-	font-family: "Avenir";
-	font-size: 16px;
-	font-weight: 900;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #333333;
-	margin-bottom: 40px;
+.icfj-email a{
+	text-decoration: none;
 }
 
-.list {
-	font-family: "Avenir";
-	font-size: 16px;
-	font-style: normal;
-	font-stretch: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #333333;
-	margin-bottom: 40px;
+.icfj-email a:hover{
+	text-decoration: underline;
 }
 
-li {
-	margin-bottom: 10px;
+p{
+	font-size: 1em;
+	line-height: 1.5em;
+	margin-top: 40px;
 }
 
-.line {
-	width: 2px;
-	height: 35px;
-	opacity: 0.27;
-	background-color: #979797;
-	margin-left: 10px;
-	margin-right: 10px;
-	display: inline-block;
+li{
+	line-height: 1.5em;
+	margin-bottom: 20px; 
 }
 
-.links {
-	margin-top: 50px;
+.contact-form{
+	height: 46px !important;
 }
 
-.link-desc {
-	display: none;
-}
-
-input {
+input{
+	background: #333;
+	padding: 15px 20px;
+	color: white;
+	width: 300px;
+	height: 46px;
+	box-sizing: border-box;
+	float: left;
 	border-top-left-radius: 20.5px;
 	border-bottom-left-radius: 20.5px;
 	font-size: 16px;
 	border: none;
-	font-family: "Open Sans";
-	padding: 10px 15px;
-	width: 70%;
-	height: 16px;
-	margin: 0;
 }
 
-input:focus {
-	outline: none;
-}
-
-a {
-	color: inherit;
-}
-
-.map {
-	margin: 10px 0px;
-	width: 100%;
-	height: 80%;
-}
-
-.circle {
-	border-top-right-radius: 100%;
-	border-bottom-right-radius: 100%;
-	background-color: #fff;
-	color: #808080;
-	width: 32px;
-	height: 36px;
+.circle{
+	background: #333;
+	color: white;
+	line-height: 46px;
 	display: inline-block;
+	margin-top: 0px;
+	width: 45px;
 	text-align: center;
-	margin-top: 2px;
-	line-height: 2.45;
+	float: left;
+	margin-left: 2px;
+	border-radius: 0px 20.5px 20.5px 0px;
+	cursor: pointer;
 }
 
-.circle:hover {
-	background-color: #808080;
-	color: #fff;
+.circle:hover{
+	box-shadow: 2px 2px 2px lightgrey;
 }
 
-.contact-form {
-	height: 35px;
-	width: auto;
-	margin-top: 20px;
+
+iframe{
+	box-shadow: 0 12px 14px #b0b0b07a;
+	border: 4px solid black;
+	border-radius: 4px;
+	margin-top: 40px;
+	margin-bottom: 80px;
+	width: 700px;
 }
 
-.contact-blurb {
-	margin-top: 10%;
+.icfj-mobile-strip, .icfj-link{
+	display: none;
 }
 
-@media screen and (max-width: 600px) {
-	.content-div,
-	.location-div {
-		float: none;
+.links a{
+	margin-right: 30px;
+}
+
+
+@media only screen and (max-width: 1100px){
+	.container{
+		width: 900px;
+	}
+
+	.content-area{
+		padding-right: 0px;
+		width: 540px;
+	}
+
+	iframe{
+		width: 540px;
+	}
+}
+
+@media only screen and (max-width: 900px){
+	.container{
+		width: 640px;
+		padding-top: 40px;
+	}
+
+	.content-area{
+		padding-right: 0px;
+		width: 400px;
+	}
+
+	.fixed-div, .icfj-strip{
+		width: 160px;
+	}
+
+	.fixed-div{
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+
+	iframe{
+		width: 400px;
+	}
+
+	.logo-div img{
+		height: 40px !important;
+	}
+
+	.fixed-div img{
+		height: 72px !important;
+	}
+
+	h1{
+		font-size: 1.4em;
+	}
+
+	.pn-text {
+	    margin-bottom: 40px;
+	    font-size: 1em;
+	}
+	
+	.strip-content{
+		bottom: 40px;
+	}
+}
+
+
+@media only screen and (max-width: 640px){
+	body{
+		font-size: 1em;
+	}
+
+	.container{
+		width: 90vw;
+	}
+
+	.content-area{
+		text-align: center;
 		width: 100%;
-		height: auto;
-		margin-top: 10%;
 	}
 
-	.large-blurb {
-		font-size: 20px;
-		margin-bottom: 18px;
+	h1{
+		/*font-size: 1.2em;*/
+		letter-spacing: -1px;
 	}
 
-	#logo-div {
-		margin-bottom: 60px;
+	ul{
+		text-align: left;
+		padding-left: 20px;
 	}
 
-	.list,
-	.list-caption {
-		font-size: 14px;
-		margin-bottom: 18px;
-		line-height: 1.5;
+	.icfj-strip{
+		display: none;
 	}
 
-	.main-content, .location-div-content{
-		width: 84%;
-		margin: 5% 8%;
-		font-size: 14px;
+	.icfj-mobile-strip{
+		display: inline-block;
+		width: 100vw;
+		/*height: 80px;*/
+		padding: 15px;
+		padding-top: 18px;
+		box-sizing: border-box;
+		background: #ededed;
+		/*margin-left: -5vw;*/
+		margin-top: 30px;
+		margin-bottom: 30px;
 	}
 
-	.location-div-content {
-		margin-bottom: 20%;
-		text-align: center;
+	#icfj-link{
+		display: inline-block;
+		width: 100vw;
+		margin-left: -5vw;
 	}
 
-	iframe {
-		width: 100%;
-		height: 160px !important;
+	a{
+		color: #333;
 	}
 
-	input {
-		width: 70%;
-		font-size: 14px;
-		height: 16px;
+	.icfj-email{
+		position: absolute;
+		bottom: -5px;
 	}
 
-	li {
-		margin: 12px 0px;
+	.icfj-email a{
+		text-decoration: none;
+		/*font-size: 0.8em;*/
 	}
 
-	.icfj-logo {
-		width: 45%;
-		height: 45%;
+	.icfj-email a:hover{
+		text-decoration: underline;
 	}
 
-	.proto-logo {
-		width: 38%;
-		height: 38%;
+	h2{
+		margin-top: 40px;
 	}
 
-	.links {
-		margin-top: 10px;
-		text-align: center;
+	input{
+		width: 75vw;
 	}
 
-	.link-desc {
-		display: block;
-		font-size: 12px;
-		font-family: 'Avenir';
-		padding: 5px;
-		margin-top: 15px;
-		text-align: center;
+	h1{
+		margin-bottom: 0px;
 	}
 
-	.contact-blurb {
-		text-align: center;
-		margin-top: 10%;
+	br{
+		/*display: none;*/
 	}
 
-	.circle {
-		line-height: 2.8;
+	iframe{
+		width: 90vw;
+		height: 180px;
 	}
 
+	.reach-us-text{
+		margin-top: 0px;
+	}
+
+	.links a{
+		margin-left: 20px;
+		margin-right: 20px;
+		display: inline-block;
+	}
+
+	.circle{
+		border-radius: 0px 20.5px 20.5px 0px;
+		width: 14vw;
+	}
+
+	.reach-us-text{
+		margin-top: 20px;
+	}
+}
+
+
+@media only screen and (max-width: 350px){
+	body{
+		font-size: 0.8em;
+	}
+
+	.logo-div{
+		margin-bottom: 30px;
+	}
 }
