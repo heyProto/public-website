@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="shortcut icon" href="https://www.pro.to/favicon.ico">
+    <title>PROTO - Cookie</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content-area">
+            <div class="logo-div">
+                <a href='https://www.pro.to'><img src="../img/proto-strip@3x.png" class="proto-logo" height="60px"></a>
+            </div>
+            <div class='cookie'>
+                <p class="c35 c48"><span class="c19">COOKIE POLICY</span></p>
+                <p class="c21 c35"><span class="c2">This Cookie Policy (&ldquo;</span><span class="c14">Cookie Policy</span><span class="c2">&rdquo;) is a part of and incorporated within and is to be read along with the Terms of Use (&ldquo;</span><span class="c14">Terms</span><span class="c2">&rdquo;) [</span><span class="c24">Insert Link to Terms of Use</span><span class="c2">]. The capitalized terms used in this Cookie Policy, but not defined herein, shall have the meaning given to such terms in the Terms.</span></p>
+                <p class="c4"><span class="c2"></span></p>
+                <p class="c21 c35"><span class="c2">The links to the relevant clauses of the Cookie Policy are as under &ndash;</span></p>
+                <div class='article-index'>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.gjdgxs">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What are cookies and local storage?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.30j0zll">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Why do we use these technologies?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.1fob9te">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Third-party Cookies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.3znysh7">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What types of cookies do we use?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.tyjcwt">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where are these technologies used?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.3dy6vkm">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Do we use Third Party Cookies?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.1t3h5sf">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional Information About Third Party Analytics in use on our Platform&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5</a></span></p>
+                    <p class="c9"><span class="c29"><a class="c1" href="#h.2s8eyo1">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How can I control Cookies?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5</a></span></p>
+                </div>
+                <ol class="c6 lst-kix_list_3-0 start" start="1">
+                    <li class="c7">
+                        <h3 id="h.gjdgxs" style="display:inline"><span class="c25">What are cookies and local storage?</span></h3></li>
+                </ol>
+                <p class="c4"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-1 start" start="1">
+                    <li class="c11"><span class="c2">Cookies are small files that the Platforms place on your computer/device as you browse the web. Like many Platforms, we use cookies to discover how people are using our services and to make them work better.</span></li>
+                </ol>
+                <p class="c21 c43 c27"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="2">
+                    <li class="c11"><span class="c2">Local storage is an industry-standard technology that allows a Platform or application to store information locally on your computer or mobile device. We use local storage to customize what we show you based on your past interactions with the Platform.</span></li>
+                </ol>
+                <p class="c21 c27"><span class="c2 c34"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="2">
+                    <li class="c7">
+                        <h3 id="h.30j0zll" style="display:inline"><span class="c25">Why do we use these technologies?</span></h3></li>
+                </ol>
+                <p class="c4"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="3">
+                    <li class="c11"><span class="c2">We use these technologies to do things like:</span></li>
+                </ol>
+                <ol class="c6 lst-kix_list_3-2 start" start="1">
+                    <li class="c13"><span class="c2">make the Platform easier or faster to use;</span></li>
+                    <li class="c13"><span class="c2">show you content relevant to your interests based on your browsing history on our Platform;</span></li>
+                    <li class="c13"><span class="c2">personalise your browsing experience by remembering your previous search entries and other data entries on our Platform; </span></li>
+                    <li class="c13"><span class="c2">enable features and store information about you (including on your device or in your browser cache) and your use of the Platform;</span></li>
+                    <li class="c13"><span class="c2">deliver, understand and improve advertising;</span></li>
+                    <li class="c13"><span class="c2">monitor and understand the use of our products and services;</span></li>
+                    <li class="c13"><span class="c2">protect you, others and the Platform;</span></li>
+                    <li class="c13"><span class="c2">speed up your future activities and experience on our Platform (such as </span><span class="c2 c34">showing you a popup only once in your visit); and</span></li>
+                    <li class="c13"><span class="c2">remember information about your browser and your preferences.</span></li>
+                </ol>
+                <p class="c23"><span class="c2 c34"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="3">
+                    <li class="c7">
+                        <h3 id="h.1fob9te" style="display:inline"><span class="c25">Third-party Cookies</span></h3></li>
+                </ol>
+                <p class="c4"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="4">
+                    <li class="c20"><span class="c2">We also use third party advertisements on [</span><span class="c24">Insert Name of Platform</span><span class="c2">] to support our Platform and provide our users with free services. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).</span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="5">
+                    <li class="c11"><span class="c2">We cannot identify you personally from this information.</span></li>
+                </ol>
+                <p class="c21 c27"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="4">
+                    <li class="c7">
+                        <h3 id="h.3znysh7" style="display:inline"><span class="c25">What types of cookies do we use?</span></h3></li>
+                </ol>
+                <p class="c4"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="6">
+                    <li class="c11"><span class="c2">Two types of cookies may be used on the Platform - &quot;session cookies&quot; and &quot;persistent cookies&quot;. Session cookies are temporary cookies that remain on your device until you leave the Platform. A persistent cookie remains on your device for much longer or until you manually delete it (how long the cookie remains on your device will depend on the duration or &quot;lifetime&quot; of the specific cookie and your browser settings).</span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="7">
+                    <li class="c11"><span class="c2">Some of the pages you visit may also collect information using pixel tags (also called clear gifs) that may be shared with third parties which directly support our promotional activities and Platform development. For example, Platform usage information about visitors of the Platform may be shared with our third-party advertising agency to better target internet banner advertisements on our Platform. The information is not, however, personally identifiable, although it could be linked to your personal information. </span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="8">
+                    <li class="c11" id="h.2et92p0"><span class="c8">Cookies used on the Platform are as follows: </span></li>
+                </ol>
+                <p class="c21 c27 c30"><span class="c2"></span></p>
+                <p class="c21 c27 c43"><span class="c2"></span></p><a id="t.b657b6a2da32588e33e683ff70e1c9bfb1a2459d"></a><a id="t.0"></a>
+                <table class="c46">
+                    <tbody>
+                        <tr class="c5">
+                            <td class="c16 c37" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c14">Type of Cookie</span></p>
+                            </td>
+                            <td class="c18 c37" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c14">What do they do?</span></p>
+                            </td>
+                            <td class="c0 c37" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c14">Do these cookies collect my personal data / identify me?</span></p>
+                            </td>
+                        </tr>
+                        <tr class="c5">
+                            <td class="c16" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">Necessary</span></p>
+                            </td>
+                            <td class="c18" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">These cookies are essential to make our Platform work correctly, they enable you to move around our Platform and use our features. Examples include remembering previous actions (e.g. entered text) when&nbsp;navigating back to a page in the same session.</span></p>
+                            </td>
+                            <td class="c0" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">These cookies don&rsquo;t identify you as an individual.</span></p>
+                                <p class="c3 c27"><span class="c2"></span></p>
+                                <p class="c3"><span class="c2">If you do not accept these cookies, it may affect the performance of the Platform, or parts of it.</span></p>
+                            </td>
+                        </tr>
+                        <tr class="c5">
+                            <td class="c16" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">Performance</span></p>
+                            </td>
+                            <td class="c18" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">These cookies help us understand how visitors interact with our Platform by providing information about the areas visited, the time spent on the Platform, and any issues encountered, such as error messages. This helps us improve the performance of our Platform.</span></p>
+                            </td>
+                            <td class="c0" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">These cookies don&rsquo;t identify you as an individual. All data is collected and aggregated anonymously.</span></p>
+                            </td>
+                        </tr>
+                        <tr class="c5">
+                            <td class="c16" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">Functionality</span></p>
+                            </td>
+                            <td class="c18" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">These cookies allow our Platform to remember the choices you make (such as your user name, language or the region you are in) to provide a more personalised online experience. </span></p>
+                            </td>
+                            <td class="c0" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">The information these cookies collect may include personally identifiable information that you have disclosed, such as your username or profile picture. We shall always be transparent with you about what information we collect, what we do with it and with whom we share it.</span></p>
+                                <p class="c3 c27"><span class="c2"></span></p>
+                                <p class="c3"><span class="c2">If you do not accept these cookies, it may affect the performance and functionality of the Platform and may restrict access to content on the Platform.</span></p>
+                            </td>
+                        </tr>
+                        <tr class="c5">
+                            <td class="c16" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">Targeting / advertising</span></p>
+                            </td>
+                            <td class="c18" colspan="1" rowspan="1">
+                                <p class="c3"><span class="c2">These cookies are used to deliver content that is more relevant to you and your interests. They may be used to deliver targeted advertising or to limit the number of times you see an advertisement. They also help us measure the effectiveness of advertising campaigns.</span></p>
+                                <p class="c3 c27"><span class="c2"></span></p>
+                                <p class="c3"><span class="c2">We may use these cookies to remember Platforms you have visited and we may share this information with other parties, including advertisers and our agencies.</span></p>
+                            </td>
+                            <td class="c0" colspan="1" rowspan="1">
+                                <p class="c21"><span class="c2">Most types of these cookies track consumers via their&nbsp;IP address&nbsp;so may collect some personal identifiable information. </span></p>
+                                <p class="c21 c27"><span class="c2"></span></p>
+                                <p class="c21"><span class="c2">We shall always be transparent with you about what information we collect, what we do with it and with whom we share it.</span></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="c21 c27"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="5">
+                    <li class="c7">
+                        <h3 id="h.tyjcwt" style="display:inline"><span class="c25">Where are these technologies used?</span></h3></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <p class="c21 c43"><span class="c2">We use these technologies on our own Platform and services and on other Platform that have integrated our services. This includes our advertising and platform partners. Third parties may also use these technologies, for example, when you interact with their content from within our services, like when you click a link or stream media on the Platform from a third-party service, and to help with the delivery of ads shown on and off of the Platform.</span></p>
+                <p class="c21 c27"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="6">
+                    <li class="c7">
+                        <h3 id="h.3dy6vkm" style="display:inline"><span class="c25">Do we use Third Party Cookies?</span></h3></li>
+                </ol>
+                <p class="c21 c26"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="9">
+                    <li class="c11"><span class="c2">We use a number of suppliers that may also set cookies on your device on our behalf when you visit the Platform to allow them to deliver the services they are providing. </span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="10">
+                    <li class="c11"><span class="c2">When you visit the Platform, you may receive cookies from third party Platforms or domains. More information about these cookies may be available on the relevant third party&#39;s Platform.</span></li>
+                </ol>
+                <p class="c21 c27"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="7">
+                    <li class="c7">
+                        <h3 id="h.1t3h5sf" style="display:inline"><span class="c25">Additional Information About Third Party Analytics in use on our Platform:</span></h3></li>
+                </ol>
+                <p class="c21 c27"><span class="c15"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="11">
+                    <li class="c12"><span class="c8">Facebook Connect.&nbsp;</span><span class="c2">For more information about what Facebook collects when you use Facebook buttons on the Platform, please see:&nbsp;</span><span class="c22"><a class="c1" href="https://www.google.com/url?q=https://www.facebook.com/about/privacy/&amp;sa=D&amp;ust=1536751520801000">Data Policy</a></span><span class="c2">.</span></li>
+                    <li class="c31"><span class="c8">Twitter.&nbsp;</span><span class="c2">For more information about what Twitter collects when you use our Platform, please see:&nbsp;</span><span class="c22"><a class="c1" href="https://www.google.com/url?q=https://twitter.com/en/privacy&amp;sa=D&amp;ust=1536751520802000">https://twitter.com/en/privacy</a></span><span class="c2">.</span></li>
+                    <li class="c31"><span class="c8">Google Analytics:&nbsp;</span><span class="c2">For more information about Google Analytics cookies, please see Google&#39;s help pages and privacy policy:</span></li>
+                    <li class="c31"><span class="c22"><a class="c1" href="https://www.google.com/url?q=https://www.google.com/policies/privacy/&amp;sa=D&amp;ust=1536751520802000">Google&#39;s Privacy Policy</a></span></li>
+                    <li class="c31"><span class="c22"><a class="c1" href="https://www.google.com/url?q=https://support.google.com/analytics/&amp;sa=D&amp;ust=1536751520803000">Google Analytics Help pages</a></span></li>
+                    <li class="c11" id="h.4d34og8"><span class="c2">Please note that this is not an exhaustive list of all third-party analytics providers that we work with. </span></li>
+                </ol>
+                <p class="c21 c27"><span class="c14"></span></p>
+                <ol class="c6 lst-kix_list_3-0" start="8">
+                    <li class="c7">
+                        <h3 id="h.2s8eyo1" style="display:inline"><span class="c25">How can I control Cookies?</span></h3></li>
+                </ol>
+                <p class="c4"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="17">
+                    <li class="c11"><span class="c2">Most internet browsers are initially set up to automatically accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device. There are a number of ways to manage cookies. Please refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings.</span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="18">
+                    <li class="c11"><span class="c2">If you disable the cookies that we use, this may impact your experience while on the Platform, for example you may not be able to visit certain areas of the Platform or you may not receive personalised information when you visit the Platform or you may also be unable to login to services or programs, such as logging into forums or accounts.</span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="19">
+                    <li class="c11"><span class="c2">If you use different devices to view and access the Platform (e.g. your computer, smartphone, tablet etc) you will need to ensure that each browser on each device is adjusted to suit your cookie preferences.</span></li>
+                </ol>
+                <p class="c21 c26"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="20">
+                    <li class="c40"><span class="c8">Changing your Cookie Settings.&nbsp;</span><span class="c2">The browser settings for changing your cookies settings are usually found in the &#39;options&#39; or &#39;preferences&#39; menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the &#39;Help&#39; option in your internet browser for more details.</span></li>
+                </ol>
+                <ol class="c6 lst-kix_list_3-2 start" start="1">
+                    <li class="c21 c39 c36"><span class="c32"><a class="c1" href="https://www.google.com/url?q=https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies&amp;sa=D&amp;ust=1536751520805000">Cookie settings in Internet Explorer</a></span></li>
+                    <li class="c21 c39 c36"><span class="c32"><a class="c1" href="https://www.google.com/url?q=https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences&amp;sa=D&amp;ust=1536751520805000">Cookie settings in Firefox</a></span></li>
+                    <li class="c21 c36 c39"><span class="c32"><a class="c1" href="https://www.google.com/url?q=https://support.google.com/chrome/answer/95647&amp;sa=D&amp;ust=1536751520806000">Cookie settings in Chrome</a></span></li>
+                    <li class="c21 c39 c36"><span class="c32"><a class="c1" href="https://www.google.com/url?q=https://support.apple.com/kb/ph21411&amp;sa=D&amp;ust=1536751520806000">Cookie settings in Safari</a></span></li>
+                </ol>
+                <p class="c21 c27 c36"><span class="c2"></span></p>
+                <ol class="c6 lst-kix_list_3-1" start="21">
+                    <li class="c47"><span class="c8">More information.&nbsp;</span><span class="c2">To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit </span><span class="c44">About Cookies</span><span class="c2">&nbsp;or </span><span class="c22"><a class="c1" href="https://www.google.com/url?q=http://www.allaboutcookies.org/&amp;sa=D&amp;ust=1536751520807000">www.allaboutcookies.org</a></span><span class="c2">.</span></li>
+                </ol>
+            </div>
+            <div class="icfj-strip">
+                <div class="fixed-div">
+                    <img src="../img/icfj-logo-tower.png" height="98px">
+                    <div class="strip-content">
+                        <div class="pn-text">PARTNER
+                            <br>NETWORK</div>
+                        <div class="icfj-email"><a href="https://www.icfj.org/">www.icfj.org<a/></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0fed2513a15be7b75b602630f/81f9fe674053562be3b34f595.js");</script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125650024-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-125650024-1');
+    </script>
+
+</body>

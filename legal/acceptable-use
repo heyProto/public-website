@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="shortcut icon" href="https://www.pro.to/favicon.ico">
+    <title>PROTO - Acceptable Use</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="content-area">
+            <div class="logo-div">
+                <a href='https://www.pro.to'><img src="../img/proto-strip@3x.png" class="proto-logo" height="60px"></a>
+            </div>
+            <div class='acceptable-use'>
+                <p class="c14"><span class="c13">WEBSITE ACCEPTABLE USE POLICY</span></p>
+                <p class="c2"><span class="c1">This acceptable use policy (&ldquo;</span><span class="c0">Use Policy</span><span class="c1">&rdquo;) is a part of and incorporated within and to be read with the Terms of Website Use (&ldquo;</span><span class="c0">Terms</span><span class="c1">&rdquo;) and is applicable to the Users of the Website and the service providers listed on the Website. The capitalized terms used in this Use Policy, but not defined herein, shall have the meaning given to such terms in the Terms. </span></p><a id="id.gjdgxs"></a>
+                <p class="c11"><span class="c0">Prohibited Uses</span></p>
+                <p class="c2"><span class="c1">The Users may use the Website only for lawful purposes. &nbsp;The User may not use the Website:</span></p>
+                <ul class="c7 lst-kix_list_19-0 start">
+                    <li class="c2 c3"><span class="c1">In any way that breaches any applicable local, national or international law or regulation.</span></li>
+                    <li class="c2 c3" id="h.30j0zll"><span class="c1">In any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect.</span></li>
+                    <li class="c2 c3"><span class="c1">For the purpose of harming or attempting to harm minors in any way.</span></li>
+                    <li class="c2 c3"><span class="c1">To send, knowingly receive, upload, download, use or re-use any material which does not comply with our content standards [INSERT A LINK TO CONTENT STANDARDS BELOW].</span></li>
+                    <li class="c2 c3"><span class="c1">To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam).</span></li>
+                    <li class="c2 c3"><span class="c1">To knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware.</span></li>
+                </ul>
+                <p class="c2"><span class="c1">You also agree:</span></p>
+                <ul class="c7 lst-kix_list_19-0">
+                    <li class="c2 c3"><span class="c1">Not to reproduce, duplicate, copy or re-sell any part of the Website in contravention of the provisions of the Terms.</span></li>
+                    <li class="c2 c3"><span class="c1">Not to access without authority, interfere with, damage or disrupt:</span></li>
+                </ul>
+                <ul class="c7 lst-kix_list_14-0 start">
+                    <li class="c2 c8"><span class="c1">any part of the Website;</span></li>
+                    <li class="c2 c8"><span class="c1">any equipment or network on which the Website is stored; </span></li>
+                    <li class="c2 c8"><span class="c1">any software used in the provision of the Website; or </span></li>
+                    <li class="c2 c8"><span class="c1">any equipment or network or software owned or used by any third party in order to facilitate you or allow you to access any part of the Website.</span></li>
+                </ul>
+                <p class="c2"><span class="c0">Content</span><span class="c0">&nbsp;</span><span class="c0">Standards</span></p>
+                <p class="c2"><span class="c1">These content standards apply to any and all material which a User and/Content provider posts to the Website including but not limited to any feedback, links to other websites, comments, engagement with online comment threads, articles, opinions, usernames and to any interactive services associated with the Website. You must comply with the spirit and the letter of the following standards. The standards apply to each part of any content as well as to its whole.</span></p>
+                <p class="c2"><span class="c1">Content must:</span></p>
+                <ul class="c7 lst-kix_list_19-0">
+                    <li class="c2 c3"><span class="c1">Be accurate (where they state facts).</span></li>
+                    <li class="c2 c3"><span class="c1">Be genuinely held (where they state opinions).</span></li>
+                    <li class="c2 c3"><span class="c1">Comply with applicable law in India.</span></li>
+                </ul>
+                <p class="c2"><span class="c1">Content must not:</span></p>
+                <ul class="c7 lst-kix_list_19-0">
+                    <li class="c2 c3"><span class="c1">Be misleading in any way.</span></li>
+                    <li class="c2 c3"><span class="c1">Contain video, photographs, or images of another person (without voluntary permission/consent of that person). </span></li>
+                    <li class="c2 c3"><span class="c1">Contain any material which is defamatory of any person.</span></li>
+                    <li class="c2 c3"><span class="c1">Contain any material which is obscene, offensive, harmful, harassing, hateful, libellous or inflammatory.</span></li>
+                    <li class="c2 c3"><span class="c1">Contain any material which is patently offensive to the online community sexually explicit, violent, pornographic, paedophilic </span></li>
+                    <li class="c2 c3"><span class="c1">Contain any material which promotes obscenity, harassment, hatred, pornography, violence, or paedophilia.</span></li>
+                    <li class="c2 c3"><span class="c1">Contain any material that promotes violence against any individual or organisation. </span></li>
+                    <li class="c2 c3"><span class="c1">Contain any material which misleads or harms or promotes harm to minors in any way. </span></li>
+                    <li class="c2 c3"><span class="c1">Promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.</span></li>
+                    <li class="c2 c3"><span class="c1">Infringe any intellectual property right of any other person.</span></li>
+                    <li class="c2 c3"><span class="c1">Be likely to deceive any person.</span></li>
+                    <li class="c2 c3"><span class="c1">Be made in breach of any legal duty owed to a third party, such as a contractual duty or a duty of confidence.</span></li>
+                    <li class="c2 c3"><span class="c1">Prevent investigation of any offence.</span></li>
+                    <li class="c2 c3"><span class="c1">Be threatening, abuse or invade another&rsquo;s privacy, or cause annoyance, inconvenience or needless anxiety.</span></li>
+                    <li class="c2 c3"><span class="c1">Be likely to harass, humiliate, upset, embarrass, alarm or annoy any person.</span></li>
+                    <li class="c2 c3"><span class="c1">Be used to impersonate any person, or to misrepresent your identity or affiliation with any person.</span></li>
+                    <li class="c2 c3"><span class="c1">Give the impression that the person posting the content or the content emanates from us, if this is not the case.</span></li>
+                    <li class="c2 c3"><span class="c1">Advocate, promote or assist any unlawful act such as (by way of example only) copyright infringement or computer misuse.</span></li>
+                    <li class="c2 c3"><span class="c1">Refers to any website, app or URL that, in our sole discretion, contains material that is inappropriate for the Website or any other website, contains content that would be prohibited or violates the letter or spirit of this Use Policy or the Terms.</span></li>
+                    <li class="c2 c3"><span class="c1">Interfere with another User&#39;s use and enjoyment of the Website or any other individual&#39;s use and enjoyment of similar services.</span></li>
+                    <li class="c2 c3"><span class="c1">Solicit any activity which we, in our sole discretion, believe is or could be construed as being illegal.</span></li>
+                    <li class="c2 c3"><span class="c1">Involve the transmission of &quot;junk mail&quot;, &quot;chain letters&quot;, or unsolicited mass mailing or &quot;spamming&quot;.</span></li>
+                    <li class="c2 c3"><span class="c1">Directly or indirectly, offer, attempt to offer, trade or attempt to trade in any item, the dealing of which is prohibited or restricted in any manner under the provisions of any applicable law, rule, regulation or guideline for the time being in force. </span></li>
+                    <li class="c2 c3"><span class="c1">Break or circumvent our security measures or otherwise test the vulnerability of our systems or networks.</span></li>
+                    <li class="c2 c3"><span class="c1">Try to reverse engineer any of Proto&rsquo;s software</span></li>
+                    <li class="c2 c3"><span class="c1">Collect or store personally identifiable information from Proto or its Users without their permission</span></li>
+                    <li class="c2 c3"><span class="c1">Sell any User&rsquo;s username or otherwise transfer it for compensation.</span></li>
+                    <li class="c2 c3"><span class="c1">Encourage or help anyone do any of the things on this list.</span></li>
+                    <li class="c2 c3"><span class="c1">Creates liability for Proto or causes Proto to lose (in whole or in part) the services of Proto&rsquo;s internet service provider (&quot;ISPs&quot;) or other suppliers.</span></li>
+                    <li class="c2 c3"><span class="c1">Threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign states, or public order or causes incitement to the commission of any cognizable offence or prevents investigation of any offence or is insulting for any other nation.</span></li>
+                    <li class="c2 c3"><span class="c1">The User shall at all times abide by the requirements of the Information Technology Act, 2000 (hereafter referred to as the &ldquo;IT Act&rdquo;) and the rules, regulations, policies, guidelines, bye laws and notifications made thereunder and/ or any law which is applicable for the time being in force while uploading any content, accessing, or using the services offered by this Website. The User shall unequivocally declare that in case of violation of any of the provisions of the IT Act and/ or rules, regulations, bye-laws, policies, guidelines and notifications made thereunder and/ or any law which is applicable for the time being in force, the User shall be solely responsible at his/ her own costs for all acts, deeds and things and the User shall be liable for any kind of civil or criminal liability there under.</span></li>
+                </ul>
+                <p class="c11"><span class="c0">Suspension and termination</span></p>
+                <p class="c2"><span class="c1">We will determine, in our discretion, whether there has been a breach of this Use Policy through your use of the Website. &nbsp;When a breach of this policy has occurred, we may take such action as we deem appropriate. &nbsp;</span></p>
+                <p class="c2"><span class="c1">Failure to comply with this Use Policy constitutes a material breach of the Terms of use upon which you are permitted to use the Website, and may result in our taking all or any of the following actions:</span></p>
+                <ul class="c7 lst-kix_list_19-0">
+                    <li class="c2 c3"><span class="c1">Immediate, temporary or permanent withdrawal of your right to use the Website.</span></li>
+                    <li class="c2 c3"><span class="c1">Immediate, temporary or permanent removal of any posting or material uploaded by you to the Website.</span></li>
+                    <li class="c2 c3"><span class="c1">Issue of a warning to you.</span></li>
+                    <li class="c2 c3"><span class="c1">Legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach.</span></li>
+                    <li class="c2 c3"><span class="c1">Further legal action against you.</span></li>
+                    <li class="c2 c3"><span class="c1">Disclosure of such information to law enforcement authorities as we reasonably feel is necessary.</span></li>
+                </ul>
+                <p class="c2"><span class="c1">We exclude liability for actions taken in response to breaches of this Use Policy. &nbsp;The responses described in this policy are not limited, and we may take any other action we reasonably deem appropriate.</span></p>
+            </div>
+            <div class="icfj-strip">
+                <div class="fixed-div">
+                    <img src="../img/icfj-logo-tower.png" height="98px">
+                    <div class="strip-content">
+                        <div class="pn-text">PARTNER
+                            <br>NETWORK</div>
+                        <div class="icfj-email"><a href="https://www.icfj.org/">www.icfj.org<a/></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0fed2513a15be7b75b602630f/81f9fe674053562be3b34f595.js");</script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125650024-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-125650024-1');
+    </script>
+
+</body>
