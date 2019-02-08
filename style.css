@@ -20,6 +20,30 @@ body {
 	font-family: AvenirLTStd-Medium;
 }
 
+.notif-bar {
+	height: 35px;
+    margin-bottom: -20px;
+    background-color: #dddddd;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    line-height: 2.3;
+}
+
+.notif-link, .notif-link:visited {
+	color: #2196f3;
+	text-decoration: none;
+	padding: 0px 4px;
+}
+
+.back {
+	text-transform: uppercase;
+    color: #a3a3a3;
+    font-size: 12px;
+    margin-bottom: -40px;
+	text-decoration: none;
+}
+
 .container{
 	width: 1100px;
 	margin-left: auto;
@@ -46,6 +70,11 @@ h2{
 	font-family: Avenir-Bold;
 	/*margin-bottom: 40px;*/
 	text-decoration: underline;
+}
+
+h3 {
+    font-family: Avenir-Bold;
+    font-size: 1.5em;
 }
 
 .icfj-strip{
